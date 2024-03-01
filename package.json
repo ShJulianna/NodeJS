@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS course",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "read": "node src/result.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
